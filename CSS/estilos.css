@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #17b2bd;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: azure;
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 5px 5px 8px #4cfa07;
+}
+h1 span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:#fa7407;
+    font-style: oblique;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgba(7, 7, 7, 0.918)240, 255, 255, 0);
+    text-align: center;
+}
+p>b{
+    font-style: italic;
+    color: aquamarine;
+    font-size: 2em;
+}
